@@ -1,0 +1,8 @@
+{
+  "main_class": "pl.yshop.plugin.extension.shopgui.ShopGuiExtension",
+  "version": "v1.0",
+  "author": "yShop.pl Contributors",
+  "description": "Shop GUI",
+  "name": "ShopGUI",
+  "supported_platforms": ["Bukkit"]
+}

@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/placeholders.iml" filepath="$PROJECT_DIR$/placeholders.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/placeholders.main.iml" filepath="$PROJECT_DIR$/.idea/modules/placeholders.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/placeholders.test.iml" filepath="$PROJECT_DIR$/.idea/modules/placeholders.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shop-gui.iml" filepath="$PROJECT_DIR$/shop-gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop-gui.main.iml" filepath="$PROJECT_DIR$/.idea/modules/shop-gui.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/shop-gui.test.iml" filepath="$PROJECT_DIR$/.idea/modules/shop-gui.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/yshop-plugin-extensions.iml" filepath="$PROJECT_DIR$/yshop-plugin-extensions.iml" />
     </modules>
   </component>

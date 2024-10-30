@@ -5,6 +5,9 @@
       <module name="placeholders" target="21" />
       <module name="placeholders.main" target="21" />
       <module name="placeholders.test" target="21" />
+      <module name="shop-gui" target="21" />
+      <module name="shop-gui.main" target="21" />
+      <module name="shop-gui.test" target="21" />
     </bytecodeTargetLevel>
   </component>
 </project>

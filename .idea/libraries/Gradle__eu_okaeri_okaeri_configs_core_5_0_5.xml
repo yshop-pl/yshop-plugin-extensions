@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: eu.okaeri:okaeri-configs-core:5.0.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="eu.okaeri" artifactId="okaeri-configs-core" version="5.0.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/eu.okaeri/okaeri-configs-core/5.0.5/8de0de7be669d000725012aa87ec7b399d17bf86/okaeri-configs-core-5.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

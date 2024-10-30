@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: eu.okaeri:okaeri-configs-yaml-bukkit:5.0.5" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="eu.okaeri" artifactId="okaeri-configs-yaml-bukkit" version="5.0.5" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/eu.okaeri/okaeri-configs-yaml-bukkit/5.0.5/ea027ae456f6128c84ed4c1ea053ee073789bb52/okaeri-configs-yaml-bukkit-5.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
