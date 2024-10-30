@@ -1,0 +1,8 @@
+{
+  "main_class": "pl.yshop.plugin.extensions.placeholders.PlaceholdersExtension",
+  "version": "v1.0",
+  "author": "yShop.pl Contributors",
+  "description": "Some placeholders to yshop.pl API",
+  "name": "Placeholders",
+  "supported_platforms": ["Bukkit"]
+}
