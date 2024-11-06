@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: pl.yshop.plugin:api:4.0.4" type="java-imported" external-system-id="GRADLE">
+    <properties groupId="pl.yshop.plugin" artifactId="api" version="4.0.4" />
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/pl.yshop.plugin/api/4.0.4/a679df0e6d3d7f9a04e846d56555fcea769b99e1/api-4.0.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

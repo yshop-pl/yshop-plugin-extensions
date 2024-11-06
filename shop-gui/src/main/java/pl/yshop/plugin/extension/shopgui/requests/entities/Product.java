@@ -1,5 +1,7 @@
 package pl.yshop.plugin.extension.shopgui.requests.entities;
 
+import pl.yshop.plugin.api.utils.Base64Utils;
+
 public class Product {
     private int id;
     private String name;
@@ -21,7 +23,7 @@ public class Product {
     }
 
     public String getShort_description() {
-        return short_description;
+        return Base64Utils.decode(short_description);
     }
 
     public String getLong_description() {
